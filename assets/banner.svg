@@ -114,7 +114,7 @@
 
     <!-- Tagline / Value Proposition -->
     <text x="600" y="206" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">
-      ⚡ Low Latency &bull; 🔒 100% Data Privacy &bull; 💸 Zero Cloud Token Fees &bull; 🌐 OpenAI-Compatible APIs
+      ⚡ Low Latency &#8226; 🔒 100% Data Privacy &#8226; 💸 Zero Cloud Token Fees &#8226; 🌐 OpenAI-Compatible APIs
     </text>
   </g>
 
